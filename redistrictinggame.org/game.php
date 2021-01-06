@@ -1,0 +1,48 @@
+<?php include('inc_header.php'); ?>
+
+<div style="width:960px; height:653px; margin:0 auto;">
+	<div style="width:15px; height:653px; float:left; background:url('graphics/shell_center_grad.gif') repeat-x;"><img src="graphics/shell_side_left_top.gif" width="15" height="18" alt="" style="float:left;"><img src="graphics/shell_side_left_grad.gif" width="6" height="618" alt="" style="float:left; clear:left;"><img src="graphics/shell_side_left_bottom.gif" width="6" height="17" alt="" style="float:left; clear:left;"></div>
+	<div style="width:939px; height:653px; float:left; text-align:left; background:url('graphics/shell_center_grad.gif') repeat-x;" id="siteContent"><div style="width:939px; height:653px; overflow:auto;"><div style="width:650px; height:15px; margin:23px auto 0 auto;"><img src="graphics/pg_00_333333_ul.gif" width="15" height="15" style="float:left;" alt=""><img src="graphics/trans_spacer.gif" width="620" height="15" style="float:left; background-color:#333333;" alt=""><img src="graphics/pg_00_333333_ur.gif" width="15" height="15" style="float:right;" alt=""></div>
+		<div style="width:650px; background:#333333; margin:0 auto 0 auto;">
+			<div style="padding-top:5px; padding-bottom:5px; margin-left:12px; margin-right:12px; text-align: center;"><span class="txtWhite">Mission 1: Fundamentals</span><br>Learn the basics of redistricting in the State of Jefferson.<br><a href="game/launchgame.php" target="_blank">Basic</a> - <a href="game/launchgame.php" target="_blank">Advanced</a> - <a href="learnaboutmission1.php">Learn More</a> - <a href="quotesaboutmission1.php">Quotes</a></div>
+		</div>
+		<div style="width:650px; height:15px; margin:0 auto 0 auto;"><img src="graphics/pg_00_333333_ll.gif" width="15" height="15" style="float:left;" alt=""><img src="graphics/trans_spacer.gif" width="620" height="15" style="float:left; background-color:#333333;" alt=""><img src="graphics/pg_00_333333_lr.gif" width="15" height="15" style="float:right;" alt=""></div><div style="width:650px; height:15px; margin:8px auto 0 auto;"><img src="graphics/pg_00_333333_ul.gif" width="15" height="15" style="float:left;" alt=""><img src="graphics/trans_spacer.gif" width="620" height="15" style="float:left; background-color:#333333;" alt=""><img src="graphics/pg_00_333333_ur.gif" width="15" height="15" style="float:right;" alt=""></div>
+		<div style="width:650px; background:#333333; margin:0 auto 0 auto;">
+			<div style="padding-top:5px; padding-bottom:5px; margin-left:12px; margin-right:12px; text-align: center;"><span class="txtWhite">Mission 2: Partisan Gerrymander</span><br>Gerrymander the State of Hamilton in your party's favor.<br><a href="game/launchgame.php" target="_blank">Basic</a> - <a href="game/launchgame.php" target="_blank">Advanced</a> - <a href="learnaboutmission2.php">Learn More</a> - <a href="quotesaboutmission2.php">Quotes</a></div>
+		</div>
+		<div style="width:650px; height:15px; margin:0 auto 0 auto;"><img src="graphics/pg_00_333333_ll.gif" width="15" height="15" style="float:left;" alt=""><img src="graphics/trans_spacer.gif" width="620" height="15" style="float:left; background-color:#333333;" alt=""><img src="graphics/pg_00_333333_lr.gif" width="15" height="15" style="float:right;" alt=""></div><div style="width:650px; height:15px; margin:8px auto 0 auto;"><img src="graphics/pg_00_333333_ul.gif" width="15" height="15" style="float:left;" alt=""><img src="graphics/trans_spacer.gif" width="620" height="15" style="float:left; background-color:#333333;" alt=""><img src="graphics/pg_00_333333_ur.gif" width="15" height="15" style="float:right;" alt=""></div>
+		<div style="width:650px; background:#333333; margin:0 auto 0 auto;">
+			<div style="padding-top:5px; padding-bottom:5px; margin-left:12px; margin-right:12px; text-align: center;"><span class="txtWhite">Mission 3: Bipartisan Gerrymander</span><br>Create a bipartisan gerrymander in the State of Madison.<br><a href="game/launchgame.php" target="_blank">Basic</a> - <a href="game/launchgame.php" target="_blank">Advanced</a> - <a href="learnaboutmission3.php">Learn More</a> - <a href="quotesaboutmission3.php">Quotes</a></div>
+		</div>
+		<div style="width:650px; height:15px; margin:0 auto 0 auto;"><img src="graphics/pg_00_333333_ll.gif" width="15" height="15" style="float:left;" alt=""><img src="graphics/trans_spacer.gif" width="620" height="15" style="float:left; background-color:#333333;" alt=""><img src="graphics/pg_00_333333_lr.gif" width="15" height="15" style="float:right;" alt=""></div><div style="width:650px; height:15px; margin:8px auto 0 auto;"><img src="graphics/pg_00_333333_ul.gif" width="15" height="15" style="float:left;" alt=""><img src="graphics/trans_spacer.gif" width="620" height="15" style="float:left; background-color:#333333;" alt=""><img src="graphics/pg_00_333333_ur.gif" width="15" height="15" style="float:right;" alt=""></div>
+		<div style="width:650px; background:#333333; margin:0 auto 0 auto;">
+			<div style="padding-top:5px; padding-bottom:5px; margin-left:12px; margin-right:12px; text-align: center;"><span class="txtWhite">Mission 4: Voting Rights Act</span><br>Ensure minority representation in the State of Hamilton.<br><a href="game/launchgame.php" target="_blank">Basic</a> - <a href="game/launchgame.php" target="_blank">Advanced</a> - <a href="learnaboutmission4.php">Learn More</a> - <a href="quotesaboutmission4.php">Quotes</a></div>
+		</div>
+		<div style="width:650px; height:15px; margin:0 auto 0 auto;"><img src="graphics/pg_00_333333_ll.gif" width="15" height="15" style="float:left;" alt=""><img src="graphics/trans_spacer.gif" width="620" height="15" style="float:left; background-color:#333333;" alt=""><img src="graphics/pg_00_333333_lr.gif" width="15" height="15" style="float:right;" alt=""></div><div style="width:650px; height:15px; margin:8px auto 0 auto;"><img src="graphics/pg_00_333333_ul.gif" width="15" height="15" style="float:left;" alt=""><img src="graphics/trans_spacer.gif" width="620" height="15" style="float:left; background-color:#333333;" alt=""><img src="graphics/pg_00_333333_ur.gif" width="15" height="15" style="float:right;" alt=""></div>
+		<div style="width:650px; background:#333333; margin:0 auto 0 auto;">
+			<div style="padding-top:5px; padding-bottom:5px; margin-left:12px; margin-right:12px; text-align: center;"><span class="txtWhite">Mission 5: Reform</span><br>See for yourself how the Tanner Proposal would change the system.<br><a href="game/launchgame.php" target="_blank">Basic</a> - <a href="game/launchgame.php">Advanced</a> - <a href="learnaboutmission5.php" target="_blank">Learn More</a> - <a href="quotesaboutmission5.php">Quotes</a>
+	
+	<div style="margin-top:20px; text-align:center;">
+		<span class="txtWhite">Additional Reform Proposals</span><br />
+		<div style="margin-top:10px; float:left; width:160px; margin-right:75px;">
+			Building a National Redistricting Reform Movement<br>(conference report)<br><a href="http://www.campaignlegalcenter.org/attachments/1641.pdf" target="_blank">Read</a>
+		</div>
+		<div style="margin-top:10px; float:left; width:150px; margin-right:75px;">
+			Redistricting Reform Report and Resources<br>(from FairVote.org)<br><a href="http://www.fairvote.org/index-page=1389.html" target="_blank">Read</a>
+		</div>
+		<div style="margin-top:10px; float:left; width:160px;">
+			Automated Redistricting<br>(the "shortest splitline" algorithm)<br><a href="http://rangevoting.org/GerryExec.html" target="_blank">Read</a>
+		</div>
+	</div>
+	<br style="clear:left">
+	
+	</div>
+		</div>
+		<div style="width:650px; height:15px; margin:0 auto 0 auto;"><img src="graphics/pg_00_333333_ll.gif" width="15" height="15" style="float:left;" alt=""><img src="graphics/trans_spacer.gif" width="620" height="15" style="float:left; background-color:#333333;" alt=""><img src="graphics/pg_00_333333_lr.gif" width="15" height="15" style="float:right;" alt=""></div><div style="width:629px; height:15px; margin:20px auto 0 auto;"><img src="graphics/pg_00_ffffff_ul.gif" width="15" height="15" style="float:left;" alt=""><img src="graphics/trans_spacer.gif" width="599" height="15" style="float:left; background-color:#ffffff;" alt=""><img src="graphics/pg_00_ffffff_ur.gif" width="15" height="15" style="float:right;" alt=""></div>
+		<div style="width:629px; background:#ffffff; margin:0 auto 0 auto;">
+			<div style="padding-top:5px; padding-bottom:5px; margin-left:12px; margin-right:12px; text-align: center; color: #000000;"><a href="index.php"><img src="graphics/btn_home.gif" width="95" height="28" alt="Home" style="padding-right:5px;"></a><a href="game.php"><img src="graphics/btn_game.gif" width="95" height="28" alt="Game" style="padding-right:5px;"></a><a href="resourceguide.php"><img src="graphics/btn_resources.gif" width="95" height="28" alt="Resources" style="padding-right:5px;"></a><a href="forums.php"><img src="graphics/btn_forums.gif" width="95" height="28" alt="Forums" style="padding-right:5px;"></a><a href="about.php"><img src="graphics/btn_about.gif" width="95" height="28" alt="About" style="padding-right:5px;"></a><a href="takeaction.php"><img src="graphics/btn_takeaction.gif" width="95" height="28" alt="Take Action"></a> </div>
+		</div>
+		<div style="width:629px; height:15px; margin:0 auto 0 auto;"><img src="graphics/pg_00_ffffff_ll.gif" width="15" height="15" style="float:left;" alt=""><img src="graphics/trans_spacer.gif" width="599" height="15" style="float:left; background-color:#ffffff;" alt=""><img src="graphics/pg_00_ffffff_lr.gif" width="15" height="15" style="float:right;" alt=""></div></div></div>
+
+
+<?php include('inc_footer.php'); ?>

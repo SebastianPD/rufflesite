@@ -1,0 +1,12 @@
+Order Deny,Allow
+Deny from 94.127.13
+Deny from 112.5.248
+Deny from 194.242.61
+Deny from 173.208.206
+Deny from 94.136.40
+Deny from 204.93.172
+Deny from 212.129.58
+Deny from 204.93.168
+Deny from 104.155.73.26
+Deny from 194.237.215
+Deny from 84.200.210
